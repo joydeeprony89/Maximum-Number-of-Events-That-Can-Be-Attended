@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp6.0-windows</TargetFramework>
+    <RootNamespace>Maximum_Number_of_Events_That_Can_Be_Attended</RootNamespace>
+  </PropertyGroup>
+
+</Project>
